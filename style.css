@@ -11,6 +11,9 @@ h1 {
 	color: #ecacac;
 	font-size: 3em;
 	border-bottom: 2px dashed #988f8f;
+	font-family:"los-feliz", serif;
+	font-weight: 400;
+	font-style: normal;
 }
 
 p {
